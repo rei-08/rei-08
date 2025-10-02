@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rei-08
-- 👀 I’m interested in ... ゲーム作るのが好きです！プログラムを書いたりエフェクトを作ったりするの楽しい
+- 👀 I’m interested in ... ゲーム作るのが好きです！
 - 🌱 I’m currently learning ...Unity ~ C#
 <!---
 rei-08/rei-08 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
